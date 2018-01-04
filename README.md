@@ -4,5 +4,5 @@ hello
 ok
 abc
 def
-ghi
+
 asdo
